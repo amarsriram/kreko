@@ -1,36 +1,102 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+⚡ Kreko — Execution Engine
 
-## Getting Started
+Turn ideas into structured action.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🚀 Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Kreko is a deterministic execution engine that converts user intent into clear, structured action plans.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Instead of generating random AI responses, Kreko uses a controlled logic system to deliver:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Fast outputs
+- Consistent structure
+- Reliable execution frameworks
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+✨ Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- ⚡ Break It Down — Converts goals into step-by-step execution phases
+- ✍️ Create Content — Generates structured content frameworks
+- 💡 Explain It — Simplifies complex ideas into clear understanding
+- 📅 Plan My Time — Builds actionable daily schedules
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+🧠 How It Works
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Kreko operates on a deterministic intelligence system:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Input is normalized
+2. Keywords are mapped across 13 categories
+3. Priority scoring selects best intent
+4. Structured output is generated
+5. Fallback ensures zero failure
+
+This creates the illusion of intelligence while remaining fast and reliable.
+
+---
+
+⚙️ Tech Stack
+
+- Next.js
+- React
+- Tailwind CSS
+- JavaScript
+
+---
+
+🎯 Purpose
+
+This project demonstrates:
+
+- Product thinking
+- UX clarity
+- System design
+- Execution-focused interfaces
+
+---
+
+📦 Live Demo
+
+👉https://kreko.vercel.app/
+
+---
+
+🧪 Usage
+
+1. Enter your goal or idea
+2. Select a mode
+3. Execute
+4. Get structured output instantly
+
+---
+
+⚠️ Note
+
+This is a demo-mode system and does not use external AI APIs.
+All outputs are generated through structured logic.
+
+---
+
+📌 Future Scope
+
+- Integrate real AI APIs
+- Add personalization
+- Store user history
+- Improve contextual understanding
+
+---
+
+👤 Author
+
+Amar Sriram
+
+---
+
+⭐ Final Thought
+
+Clarity beats complexity.
+Execution beats intention.
